@@ -3,5 +3,8 @@ nginx
 calico/cni:v3.10.4
 calico/pod2daemon-flexvol:v3.10.4
 calico/kube-controllers:v3.10.4
+docker.io/calico/cni:v3.20.6
+docker.io/calico/pod2daemon-flexvol:v3.20.6
+docker.io/calico/kube-controllers:v3.20.6
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
